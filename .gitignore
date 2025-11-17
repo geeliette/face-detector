@@ -1,0 +1,5 @@
+env/
+.venv/
+deep/path/to/venv/
+.deep/
+**/.ipynb_checkpoints/
